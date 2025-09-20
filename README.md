@@ -1,7 +1,6 @@
 # 🧪 Client Automation Tests (Web + Mobile)
 
 This project demonstrates **end-to-end client automation testing** for both **Web** (Selenium) and **Mobile** (Appium + Android Emulator).  
-It’s designed as a portfolio project to showcase strong skills in **QA engineering, test automation, and troubleshooting across platforms**.
 
 
 ## 🚀 Features
@@ -116,4 +115,5 @@ This project highlights:
 
 * 🌐 Portfolio:
 * 💼 LinkedIn: 
+
 
