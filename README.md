@@ -39,7 +39,7 @@ client-automation-tests/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/hasanul.kabir_md/client-automation-tests.git
+git clone https://github.com/hasanulkabir-md/Client-Testing-Automation.git
 cd client-automation-tests
 
 
@@ -116,3 +116,4 @@ This project highlights:
 
 * 🌐 Portfolio:
 * 💼 LinkedIn: 
+
