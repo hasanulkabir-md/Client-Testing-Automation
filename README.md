@@ -1,7 +1,9 @@
+```markdown
 # 🧪 Client Automation Tests (Web + Mobile)
 
 This project demonstrates **end-to-end client automation testing** for both **Web** (Selenium) and **Mobile** (Appium + Android Emulator).  
 
+---
 
 ## 🚀 Features
 
@@ -17,6 +19,7 @@ Automated Android test cases:
 - ✅ Runs using **Appium v3** with **UiAutomator2 driver**  
 - ✅ Captures emulator screenshots for evidence  
 
+---
 
 ## 📂 Project Structure
 ```
@@ -33,6 +36,9 @@ client-automation-tests/
 ├── pytest.ini                   # Pytest configuration
 └── README.md
 
+````
+
+---
 
 ## ⚙️ Setup Instructions
 
@@ -40,36 +46,46 @@ client-automation-tests/
 ```bash
 git clone https://github.com/hasanulkabir-md/Client-Testing-Automation.git
 cd client-automation-tests
-
+````
 
 ### 2. Create Virtual Environment
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run Web Tests (Selenium)
 
 Make sure Chrome/Chromedriver are installed:
 
+```bash
 pytest -v tests/test_login.py
 pytest -v tests/test_form_validation.py
 pytest -v tests/test_file_upload.py
-
+```
 
 ### 5. Run Mobile Test (Appium + Emulator)
 
 1. Start **Android Emulator** (AVD)
 2. Start **Appium server** in another terminal:
 
+   ```bash
    appium
-
+   ```
 3. Run the mobile test:
 
+   ```bash
    pytest -v tests/test_mobile.py
+   ```
+
+---
 
 ## 📸 Screenshots
 
@@ -89,6 +105,8 @@ pytest -v tests/test_file_upload.py
 
 ![Settings Screenshot](screenshots/settings_open.png)
 
+---
+
 ## 📊 Tech Stack
 
 * **Python 3.12**
@@ -98,7 +116,7 @@ pytest -v tests/test_file_upload.py
 * **Android Emulator (AVD)** → for running APK/system app tests
 * **Headless Chrome** → CI/CD-friendly web test execution
 
-
+---
 
 ## 🎯 Why This Project?
 
@@ -108,12 +126,15 @@ This project highlights:
 * Experience with **QA process, debugging, and CI/CD-ready test frameworks**
 * Clear **evidence of working tests** via screenshots
 
+---
 
 ## 👨‍💻 Author
 
 **Md. Hasanul Kabir**
 
-* 🌐 Portfolio:
-* 💼 LinkedIn: 
+* 🌐 Portfolio: *add your portfolio link here*
+* 💼 LinkedIn: *add your LinkedIn link here*
 
+```
 
+---
