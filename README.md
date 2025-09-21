@@ -25,15 +25,15 @@ Automated Android test cases:
 ```
 
 client-automation-tests/
-├── conftest.py                  # Shared fixtures (Selenium + Appium) + screenshots
+├── conftest.py # Shared fixtures (Selenium + Appium) + screenshots
 ├── tests/
-│   ├── test\_login.py            # Web: login flow
-│   ├── test\_form\_validation.py  # Web: form validation
-│   ├── test\_file\_upload.py      # Web: file upload
-│   └── test\_mobile.py           # Mobile: Settings app test
-├── screenshots/                 # Saved screenshots from test runs
-├── requirements.txt             # Python dependencies
-├── pytest.ini                   # Pytest configuration
+│ ├── test_login.py # Web: login flow
+│ ├── test_form_validation.py # Web: form validation
+│ ├── test_file_upload.py # Web: file upload
+│ └── test_mobile.py # Mobile: Settings app test
+├── screenshots/ # Saved screenshots from test runs
+├── requirements.txt # Python dependencies
+├── pytest.ini # Pytest configuration
 └── README.md
 
 ````
@@ -138,3 +138,4 @@ This project highlights:
 ```
 
 ---
+
