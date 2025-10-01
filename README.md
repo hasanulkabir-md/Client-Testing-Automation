@@ -1,9 +1,5 @@
-Got it 👍 — your README is already solid, but it needs some **polish, formatting fixes, and consistency**.
-Here’s a **cleaned-up and improved version** 👇
-
 ---
 
-```markdown
 # 🧪 Client Automation Tests (Web + Mobile)
 
 This project demonstrates **end-to-end client automation testing** for both **Web** (Selenium + Pytest) and **Mobile** (Appium + Android Emulator).  
@@ -153,3 +149,4 @@ This project highlights:
 
 Do you also want me to add a **Skills section at the top** (like in your API Testing README) so it looks uniform across your projects?
 ```
+
