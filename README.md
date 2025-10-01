@@ -6,19 +6,18 @@ This project demonstrates **end-to-end client automation testing** for both **We
 ---
 
 ## 🚀 Features
-
+---
 ### 🌐 Web Automation (Selenium + Pytest)
 Automated tests against [the-internet.herokuapp.com](https://the-internet.herokuapp.com):
 - ✅ **Login Flow** → handles valid & invalid login  
 - ✅ **Form Validation** → validates email form submission  
 - ✅ **File Upload** → uploads and verifies a file  
-
+---
 ### 📱 Mobile Automation (Appium + Emulator)
 Automated Android test cases:
 - ✅ Launches and validates **Settings app** on emulator  
 - ✅ Runs using **Appium v3** with **UiAutomator2 driver**  
 - ✅ Captures emulator screenshots for evidence  
-
 ---
 
 ## 📂 Project Structure
@@ -132,5 +131,6 @@ This project highlights:
 🔗 [LinkedIn](https://linkedin.com/in/hasanulkabir_md) | [Portfolio](https://your-portfolio.com)
 
 ---
+
 
 
